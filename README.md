@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Angular Junior Certificate](https://img.shields.io/badge/Angular_Certified-Junior-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/a0a29dc3-bf9a-497f-b37a-54ba55514a9f)
 <!--
 **whataboutjuuu/whataboutjuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
